@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+/// Controller to search for Locations
 final class RMLocationViewController: UIViewController {
 
     override func viewDidLoad() {
